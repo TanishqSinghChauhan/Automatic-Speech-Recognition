@@ -8,7 +8,9 @@ and CTC (Connectionist Temporal Classification) as decoder.
 
 **Mel-frequency cepstral coefficients (MFCC) is used for feature extraction.**
 
-<img src="https://github.com/ashwani-adu3839/Speech-To-Speech-Generative-Model/blob/main/Img/tsnePLot.png" width="600"> 
+
+<img src="https://github.com/ashwani-adu3839/Automatic-Speech-Recognition/blob/main/Img/2-Figure1-1.png" width="600"> 
+Model Architecture
 
 
 **Disclaimer**- *Custom learning rate for Transformer Encoder is needed to be suitably tuned*
