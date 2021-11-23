@@ -4,6 +4,9 @@ Text to Speech Generation for MNIST digits using Seq2Seq architecture using Tran
 **Melspectogram is used for audio feature extraction.**
 The English words are converted to Phoneme using phonemizer library.
 
+<img src="https://github.com/ashwani-adu3839/Automatic-Speech-Recognition/blob/main/Img/4-Figure.svg" width="200">
+Model Architecture
+
 
 # Link
 [Tensorflow](https://www.tensorflow.org/api_docs) - _Tensorflow_
