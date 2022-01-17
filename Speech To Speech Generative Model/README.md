@@ -7,11 +7,11 @@ The Generated Spectrogram from latent Space could easily be distinguised between
 
 | Original| VAE Generated      |    GAN Generated|           
 |------------|-------------|--------------|
-| <img src="https://github.com/ashwani-adu3839/Speech-To-Speech-Generative-Model/blob/main/Img/Original.png" width="400"> | <img src="https://github.com/ashwani-adu3839/Speech-To-Speech-Generative-Model/blob/main/Img/VAE.png" width="400"> |<img src="https://github.com/ashwani-adu3839/Speech-To-Speech-Generative-Model/blob/main/Img/GAN.png" width="400"> |
+| <img src="https://github.com/ashwani-adu3839/Automatic-Speech-Recognition/blob/main/Speech%20To%20Speech%20Generative%20Model/Img/Original.png" width="400"> | <img src="https://github.com/ashwani-adu3839/Automatic-Speech-Recognition/blob/main/Speech%20To%20Speech%20Generative%20Model/Img/VAE.png" width="400"> |<img src="https://github.com/ashwani-adu3839/Automatic-Speech-Recognition/blob/main/Speech%20To%20Speech%20Generative%20Model/Img/GAN.png" width="400"> |
 
 The t-SNE  plot of latent space in VAE model. The different positions of same digits corresponds to voices of different speakers.
 
-<img src="https://github.com/ashwani-adu3839/Speech-To-Speech-Generative-Model/blob/main/Img/tsnePLot.png" width="600"> 
+<img src="https://github.com/ashwani-adu3839/Automatic-Speech-Recognition/blob/main/Speech%20To%20Speech%20Generative%20Model/Img/tsnePLot.png" width="600"> 
 
 
 
